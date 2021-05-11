@@ -21,7 +21,7 @@ ORPAY:
 applied to a textbox is "TextChanged" and that event is needed to update the
 price of the product in the cart as well as the summary of payment/total price. 
 
-Everytime the value inside will be changed it will trigger postback and 
+  Everytime the value inside will be changed it will trigger postback and 
 refresh the page. This way the user will only type the quantity instead 
 of manually clicking the increase/decrease, which can be disorienting.
 
